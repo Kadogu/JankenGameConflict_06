@@ -1,4 +1,3 @@
-//JankenView .java
 package janken;
 
 import javafx.application.Application;
@@ -102,3 +101,7 @@ public static void main(String[] args) {
  }
 
 }
+
+
+
+折りたたむ 
